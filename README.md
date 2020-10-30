@@ -1,5 +1,5 @@
 ## Simple web crawler project implemented with python 
-# steps for implementing crawler with BeautifulSoup:
+#### steps for implementing crawler with BeautifulSoup:
 1.installing Requests and BeautifulSoup 
 2.importing above libaries
 3.initializing target web url
