@@ -1,0 +1,6 @@
+README.md
+setup.py
+postscrape.egg-info/PKG-INFO
+postscrape.egg-info/SOURCES.txt
+postscrape.egg-info/dependency_links.txt
+postscrape.egg-info/top_level.txt
