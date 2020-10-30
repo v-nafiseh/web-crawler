@@ -1,0 +1,7 @@
+err1 ----> spider must return request item or none
+https://docs.scrapy.org/en/latest/topics/items.html
+
+
+err2 ----> attempted relative import beyond top-level packagepylint(relative-beyond-top-level)
+https://stackoverflow.com/questions/6323860/sibling-package-imports
+
